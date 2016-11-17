@@ -1,5 +1,3 @@
-# stars
+# Star Plotting functions
 
-Look, I committed a new readme!
-
-Go Buffs.
+A small collection of star plotting functions.
